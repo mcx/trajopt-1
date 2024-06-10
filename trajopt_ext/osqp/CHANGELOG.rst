@@ -2,6 +2,11 @@
 Changelog for package osqp
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.22.0 (2024-06-02)
+-------------------
+* Update OSQP to 0.6.3
+* Contributors: Roelof Oomen
+
 0.7.2 (2023-11-27)
 ------------------
 
