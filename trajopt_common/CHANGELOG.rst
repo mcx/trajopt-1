@@ -2,6 +2,14 @@
 Changelog for package trajopt_utils
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.25.1 (2024-09-29)
+-------------------
+
+0.25.0 (2024-09-28)
+-------------------
+* Add missing package libraries cmake variable
+* Contributors: Levi Armstrong
+
 0.24.0 (2024-08-14)
 -------------------
 
